@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/BP_HP_and_Score.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/GM_Tutorial.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Blueprints/HP_and_Score.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/GatheringResourcesSystem/Blueprints/Resources/BP_Crystal.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HP_and_Score.uasset",
+				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Bullet.uasset"
+			]
+		}
+	]
+}
