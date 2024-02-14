@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/MatrixGame/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/MatrixGame/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/advay_3liss2m/OneDrive/Documents/GitHub/MatrixGame/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
 				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/advay_3liss2m/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
